@@ -1,4 +1,4 @@
-![Header](header.gif)
+![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
 ## This is Ishrat Jahan Ananya,
 ####   Im an aspiring Data scientist with a knack for Data Art and Entreprenuership. The idea of using data as a medium for artistic expression fascinates me. Here you will find all my recent projects. 
@@ -6,17 +6,17 @@
 ## Some Skills and tools I use
 
 <p align="center">
-	<img title="Python" alt="Python" src="images/python.svg" width="60" height="60" />
-	<img title="Git" alt="Python" src="images/git.svg" width="60" height="60" />
-	<img title="Bitbucket" alt="Python" src="images/bitbucket.svg" width="40" height="40" />
-	<img title="MySQL" alt="Python" src="images/mysql.svg" width="60" height="60" />
-	<img title="Autocad" alt="Python" src="images/autocad.svg" width="60" height="60" />
-	<img title="Django" alt="Python" src="images/django.svg" width="60" height="60" />
-	<img title="Sketchup" alt="Python" src="images/sketchup.svg" width="60" height="60" />
-	<img title="Trello" alt="Python" src="images/trello.svg" width="60" height="60" />
-	<img title="HTML5" alt="Python" src="images/html5.svg" width="60" height="60" />
-	<img title="CSS3" alt="Python" src="images/css3.svg" width="60" height="60" />
-	<img title="JavaScript" alt="Python" src="images/javascript.svg" width="60" height="60" />
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/python.svg" width="60" height="60" />
+	<img title="Git" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/git.svg" width="60" height="60" />
+	<img title="Bitbucket" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/bitbucket.svg" width="40" height="40" />
+	<img title="MySQL" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/mysql.svg" width="60" height="60" />
+	<img title="Autocad" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/autocad.svg" width="60" height="60" />
+	<img title="Django" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/django.svg" width="60" height="60" />
+	<img title="Sketchup" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/sketchup.svg" width="60" height="60" />
+	<img title="Trello" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/trello.svg" width="60" height="60" />
+	<img title="HTML5" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/html5.svg" width="60" height="60" />
+	<img title="CSS3" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/css3.svg" width="60" height="60" />
+	<img title="JavaScript" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/javascript.svg" width="60" height="60" />
 	
 </p>
 

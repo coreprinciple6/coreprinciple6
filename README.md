@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
 ## This is Ishrat Jahan Ananya,
-####   Im an aspiring Data scientist with a knack for Data Art and Entreprenuership. The idea of using data as a medium for artistic expression fascinates me. Here you will find all my recent projects. 
+####   Im an aspiring Data scientist with a knack for Computational Art and Entreprenuership. The idea of using data as a medium for artistic expression fascinates me. Here you will find all my recent projects. 
 
 ## Some Skills and tools I use
 

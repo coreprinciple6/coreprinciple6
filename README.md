@@ -39,6 +39,6 @@
 <a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/coreprinciple"><img src="https://img.shields.io/badge/-Kaggle-1ec3e8?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 <a target="_blank" href="http://www.ijananya.com/"><img src="https://img.shields.io/badge/-Website-ffbd2e?style=for-the-badge&logo=Github&logoColor=white"></img></a>
-<a target="_blank" href="http://https://derivative.ca/user/303203/profile/"><img src="https://img.shields.io/badge/-Derivative-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"></img></a>
+<a target="_blank" href="https://derivative.ca/user/303203/profile"><img src="https://img.shields.io/badge/-Derivative-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"></img></a>
 <br>
 </p>

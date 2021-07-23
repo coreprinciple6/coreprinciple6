@@ -1,22 +1,24 @@
 ![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
 ## This is Ishrat Jahan Ananya,
-####   Im an aspiring Data scientist with a knack for Computational Art and Entreprenuership. The idea of using data as a medium for artistic expression fascinates me. Here you will find all my recent projects. 
-
+####   Im an aspiring Data scientist with a knack for Computational Art and Entreprenuership. The idea of using data as a medium for artistic expression fascinates me. Here you will find all my documented projects that I have developed using various tools.
 ## Some Skills and tools I use
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/python.svg" width="60" height="60" />
 	<img title="Git" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/git.svg" width="60" height="60" />
-	<img title="Bitbucket" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/bitbucket.svg" width="40" height="40" />
+	<img title="Jupyter" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/jupyter.svg" width="60" height="60" />
 	<img title="MySQL" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/mysql.svg" width="60" height="60" />
 	<img title="Autocad" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/autocad.svg" width="60" height="60" />
 	<img title="Django" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/django.svg" width="60" height="60" />
+	<img title="Bitbucket" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/bitbucket.svg" width="40" height="40" />
+	<img title="Pytorch" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pytorch.svg" width="60" height="60" />
 	<img title="Sketchup" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/sketchup.svg" width="60" height="60" />
 	<img title="Trello" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/trello.svg" width="60" height="60" />
 	<img title="Tensorflow" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/tf.svg" width="60" height="60" />
-	<img title="Pytorch" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pytorch.svg" width="60" height="60" />
 	<img title="TouchDesigner" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/td.svg" width="60" height="60" />
+	<img title="Pycharm" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pycharm.svg" width="60" height="60" />
+
 	
 </p>
 
@@ -37,5 +39,6 @@
 <a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/coreprinciple"><img src="https://img.shields.io/badge/-Kaggle-1ec3e8?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 <a target="_blank" href="http://www.ijananya.com/"><img src="https://img.shields.io/badge/-Website-ffbd2e?style=for-the-badge&logo=Github&logoColor=white"></img></a>
+<a target="_blank" href="http://https://derivative.ca/user/303203/profile/"><img src="https://img.shields.io/badge/-Derivative-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"></img></a>
 <br>
 </p>

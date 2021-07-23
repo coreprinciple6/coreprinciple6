@@ -14,9 +14,9 @@
 	<img title="Django" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/django.svg" width="60" height="60" />
 	<img title="Sketchup" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/sketchup.svg" width="60" height="60" />
 	<img title="Trello" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/trello.svg" width="60" height="60" />
-	<img title="HTML5" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/html5.svg" width="60" height="60" />
-	<img title="CSS3" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/css3.svg" width="60" height="60" />
-	<img title="JavaScript" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/javascript.svg" width="60" height="60" />
+	<img title="Tensorflow" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/tf.svg" width="60" height="60" />
+	<img title="Pytorch" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pytorch.svg" width="60" height="60" />
+	<img title="TouchDesigner" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/td.svg" width="60" height="60" />
 	
 </p>
 
@@ -35,5 +35,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya-b0785315a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:ajishrat97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://www.kaggle.com/coreprinciple"><img src="https://img.shields.io/badge/-Kaggle-1ec3e8?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
+<a target="_blank" href="http://www.ijananya.com/"><img src="https://img.shields.io/badge/-Website-ffbd2e?style=for-the-badge&logo=Github&logoColor=white"></img></a>
 <br>
 </p>

@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
-## This is Ishrat Jahan Ananya,
-####   Deep Learning Engineer,Computational Art enthusiast, collaborative, analytical. My strengths lie in conceptualizing ideas for a project, managing and delivering them seamlessly. Here you will find all my documented projects that I have developed using various tools.
+## This is Ishrat Jahan Ananya
+####   I am a Deep Learning Engineer and a Computational Art enthusiast. Im collaborative, analytical and specialise in Computer Vision related tasks. My strengths lie in conceptualizing ideas for a project, managing and delivering them seamlessly. Here you will find all my documented projects that I have developed using various tools.
 ## Some Skills and tools I use
 
 <p align="center">

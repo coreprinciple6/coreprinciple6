@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorRT-1ED43C?style=for-the-badge&logo=Derivative&logoColor=white"/>
 <img src="https://img.shields.io/badge/ONNX-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Librosa-d11baa?style=for-the-badge&logo=Derivative&logoColor=white"/>
+<img src="https://img.shields.io/badge/NCNN-cfc513?style=for-the-badge&logo=Derivative&logoColor=white"/>
+<img src="https://img.shields.io/badge/TouchDesigner-607341?style=for-the-badge&logo=Derivative&logoColor=black"/>
 </p>
 
 ####  For Wev Developement I have used:

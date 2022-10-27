@@ -1,42 +1,58 @@
 ![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
-## This is Ishrat Jahan Ananya
-#### I am a Deep Learning Engineer,Computational Art enthusiast, collaborative, analytical. My strengths lie in conceptualizing ideas for a project, managing and delivering them seamlessly.
-## Some Skills and tools I use
+# This is Ishrat Ananya
+### I am a Deep Learning Engineer and a Computational Art enthusiast. My strengths lie in conceptualizing ideas for a project, managing and delivering them seamlessly.
 
-<p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/python.svg" width="60" height="60" />
-	<img title="Git" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/git.svg" width="60" height="60" />
-	<img title="Jupyter" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/jupyter.svg" width="60" height="60" />
-	<img title="MySQL" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/mysql.svg" width="60" height="60" />
-	<img title="OpenCV" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/autocad.svg" width="60" height="60" />
-	<img title="Django" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/django.svg" width="60" height="60" />
-	<img title="Bitbucket" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/bitbucket.svg" width="40" height="40" />
-	<img title="Pytorch" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pytorch.svg" width="60" height="60" />
-	<img title="Sketchup" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/sketchup.svg" width="60" height="60" />
-	<img title="Trello" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/trello.svg" width="60" height="60" />
-	<img title="Tensorflow" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/tf.svg" width="60" height="60" />
-	<img title="TouchDesigner" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/td.svg" width="60" height="60" />
-	<img title="Pycharm" alt="Python" src="https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/images/pycharm.svg" width="60" height="60" />
-
-	
+#### My research focus is in Computer Vision but I am open to all domain of AI. Some tools Im familiar with are:
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorRT-1ED43C?style=for-the-badge&logo=Derivative&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"/>
 </p>
+
+####  For Wev Developement I have used:
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+####  Devices and OS
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetson Nano-1FB638?style=for-the-badge&logo=Derivative&logoColor=6d6e70"/>
+</p>
+
+####  IDEs I worked with:
+<p>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+</P>
+
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/coreprinciple97/coreprinciple97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple97&show_icons=true&hide=php,html&title_color=#FFFFFF&text_color=#FFFFFF&icon_color=5db5ec&bg_color=#872fad" />
-</a>
-
-<a href="https://github.com/coreprinciple97/coreprinciple97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coreprinciple97&show_icons=true&line_height=27&count_private=true&title_color=5db5ec&text_color=fff&icon_color=5db5ec&bg_color=000"  />
-</a>
-
-##  Feel Free to reach out
 <p>
-<a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya-b0785315a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ajishrat97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://derivative.ca/user/303203/profile"><img src="https://img.shields.io/badge/-Derivative-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"></img></a>
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple97&theme=vue" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple97&theme=vue&layout=compact" />
 </p>
+
+###  Feel Free to reach out
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya/"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="60" height="60"></img></a> 
+<a target="_blank" href="mailto:ajishrat97@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="60" height="60"></img></a> 				
+<a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" width="80" height="80"></img></a>
+</p>
+

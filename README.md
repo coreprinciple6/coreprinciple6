@@ -48,8 +48,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple97&theme=vue" width="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple97&theme=vue&layout=compact" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple97&theme=vue" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple97&theme=vue&layout=compact" width="350" />
 </p>
 
 ###  Feel Free to reach out

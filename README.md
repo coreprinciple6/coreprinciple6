@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Librosa-d11baa?style=for-the-badge&logo=Derivative&logoColor=white"/>
 <img src="https://img.shields.io/badge/NCNN-cfc513?style=for-the-badge&logo=Derivative&logoColor=white"/>
 <img src="https://img.shields.io/badge/TouchDesigner-607341?style=for-the-badge&logo=Derivative&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Derivative&logoColor=black"/>
 </p>
 
 ####  For Wev Developement I have used:
@@ -48,14 +49,14 @@
 
 ## &#x1f4c8; GitHub Stats
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple97&theme=vue" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple97&theme=vue&layout=compact" width="350" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple6&theme=vue" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple6&theme=vue&layout=compact" width="350" />
 </p>
 
 ###  Feel Free to reach out
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya/"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="60" height="60"></img></a> 
-<a target="_blank" href="mailto:ajishrat97@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="60" height="60"></img></a> 				
+<a target="_blank" href="mailto:nahajtarshi@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="60" height="60"></img></a> 				
 <a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" width="80" height="80"></img></a>
 </p>
 

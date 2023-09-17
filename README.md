@@ -1,8 +1,7 @@
 ![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
 
 # This is Ishrat Ananya
-### I am a Deep Learning Engineer and a Computational Art enthusiast. My strengths lie in conceptualizing ideas for a project, managing and delivering them seamlessly.
-
+### I'm an Illinois Institute of Technology Computer Science graduate specializing in Deep Learning and Responsible AI.
 #### My research focus is in Computer Vision but I am open to all domain of AI. Some tools Im familiar with are:
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />

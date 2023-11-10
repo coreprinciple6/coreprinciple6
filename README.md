@@ -1,7 +1,8 @@
-![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/header.gif)
+![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/head.png)
 
-# This is IJ
-### I'm an Illinois Institute of Technology Computer Science graduate specializing in Deep Learning and Responsible AI.
+
+### This is IJ. I'm a Computer Science graduate from Illinois Tech, specializing in Deep Learning and Responsible AI. Currently Im exploring Generative AI to build personal assistants. Feel free to reach out to nahajtarshi@gmail.com or tap   <a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya/"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="30" height="30"></img></a>.
+
 #### Some tools Im familiar with are:
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -39,25 +40,4 @@
 <img src="https://img.shields.io/badge/Jetson Nano-1FB638?style=for-the-badge&logo=Derivative&logoColor=6d6e70"/>
 </p>
 
-####  IDEs I worked with:
-<p>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-</P>
-
-
-## &#x1f4c8; GitHub Stats
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coreprinciple6&theme=vue" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreprinciple6&theme=vue&layout=compact" width="350" />
-</p>
-
-###  Feel Free to reach out
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya/"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="60" height="60"></img></a> 
-<a target="_blank" href="mailto:nahajtarshi@gmail.com"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/gmail.png" width="60" height="60"></img></a> 				
-<a target="_blank" href="https://medium.com/@coreprinciple"><img src="https://raw.githubusercontent.com/Medium/medium-logos/cd9acd1fff7e3c902b559de6c808c4a491f2d160/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" width="80" height="80"></img></a>
-</p>
 

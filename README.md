@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/head.png)
+![Header](https://raw.githubusercontent.com/coreprinciple97/coreprinciple97/master/cat.png)
 
 
 # This is IJ

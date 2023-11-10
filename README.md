@@ -6,32 +6,13 @@
 I'm a Computer Science graduate from Illinois Tech, specializing in Deep Learning and Responsible AI. Currently Im exploring Generative AI to build personal assistants. I mainly work with python and am a computational art enthusiast. To discuss cattos and more, feel free to reach out to nahajtarshi@gmail.com or tap   <a target="_blank" href="https://www.linkedin.com/in/ishrat-jahan-ananya/"><img src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" width="30" height="30"></img></a>.
 
 ## Some tools Im familiar with are:
-<p>
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
- <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langchain-607341?style=for-the-badge&logo=Derivative&logoColor=black"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Derivative&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=Derivative&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-00FFFF?style=for-the-badge&logo=Derivative&logoColor=white"/>
-</p>
-<p>
- <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
- <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
- <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-1ED43C?style=for-the-badge&logo=Derivative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Librosa-d11baa?style=for-the-badge&logo=Derivative&logoColor=white"/>
-<img src="https://img.shields.io/badge/NCNN-cfc513?style=for-the-badge&logo=Derivative&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
 
+| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> |  <img src="https://img.shields.io/badge/Langchain-607341?style=for-the-badge&logo=Derivative&logoColor=black"/> |
+| -------- | -------- | -------- |
+|  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Derivative&logoColor=black"/>   |   <img src="https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=Derivative&logoColor=black"/>   |  <img src="https://img.shields.io/badge/Transformers-00FFFF?style=for-the-badge&logo=Derivative&logoColor=white"/>   |
+|  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />   | <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />   | <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />   |
+| <img src="https://img.shields.io/badge/OpenAI-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />   | <img src="https://img.shields.io/badge/TensorRT-1ED43C?style=for-the-badge&logo=Derivative&logoColor=white"/>   |  <img src="https://img.shields.io/badge/ONNX-6d6e70?style=for-the-badge&logo=Derivative&logoColor=white"/>  |
+| <img src="https://img.shields.io/badge/Librosa-d11baa?style=for-the-badge&logo=Derivative&logoColor=white"/> | <img src="https://img.shields.io/badge/NCNN-cfc513?style=for-the-badge&logo=Derivative&logoColor=white"/>  | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  |
 
 ## For Wev Developement I have used:
 <p>
